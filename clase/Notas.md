@@ -1,4 +1,4 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 1
 
 ## 📆 Fecha de la sesión
 2/7/2026
@@ -7,32 +7,18 @@
 - Ricardo Plazas
 - Luis Diaz
 - Sergio Nieto
-- Juan Daneil Gonzales
+- Juan Daniel Gonzales
 
-
-## 🧠 Actividades realizadas en clase
-
-Describa brevemente qué se hizo durante la sesión:
+  Actividades
 
 - ¿Qué se discutió con el equipo?
+  R// Discutimos cuáles eran las interacciones principales que efectuaría el sistema de agendamiento de citas. Decidimos que se podía realizar una consulta a una base de datos de médicos registrados en el sistema de salud, y que se interactuaría con esta base de datos una vez el usuario seleccionara la especialidad requerida. Posteriormente, se realizaría otra consulta tras la selección del paciente de especialidad y médico tratante para encontrar una fecha ideal, para finalizar en el proceso de confirmación de cita y el envío de una notificación al usuario. 
 - ¿Qué decisiones de modelado se tomaron?
+  R// Decidimos que no eran necesarias tantas interacciones, debido a que el sistema de citas posee inherentemente una base de datos que no tiene que interactuar con otra para la búsqueda de un médico. Concluímos que era más adecuado consultar una especialidad y que el sistema le enseñara al usuario todas las citas disponibles indiscriminadamente del profesional y la hora de preferencia del paciente. Por lo tanto, facilitaría al usuario el proceso de seleccionar una cita a la hora preferida sin tener que consultar primero cada médico disponible para encontrar hora fecha cómoda.
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
+  R// Draw.io
 - ¿Qué parte del trabajo se alcanzó a desarrollar?
+  R// Esquema BPMN de la solución planteada.
 
-## 🧩 Boceto inicial del modelo
-
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
-
-## 🔁 Tareas definidas para complementar el taller
-
-Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
-
-| Tarea asignada | Responsable | Fecha estimada |
-|----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
-
----
 
 _Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._
